@@ -29,7 +29,6 @@ Cd brooklyn /bay ridge- Goes into grandchild directory called bay ridge via chil
 
 ### Challenges
 
-```
 
   
 ### Takeaway
