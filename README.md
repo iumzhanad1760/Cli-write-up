@@ -22,6 +22,23 @@
 
 ```..``` - goes to parent directory
 
+```mkdir```- Make  directory 
+
+```rmdir```- Remove directory ( that is empty)
+
+```touch```- make file 
+
+```rm```- Remove 
+
+```rm -rf```- remove folder
+
+```mv```- to rename
+
+```mv```- to move
+
+
+
+
  _examples_
 Cd brooklyn- goes into the child directory called “Brooklyn”
 Cd brooklyn /bay ridge- Goes into grandchild directory called bay ridge via child directory- Brooklyn 
