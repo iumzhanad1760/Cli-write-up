@@ -6,8 +6,8 @@
 
 
 ### Context
-In this CLI writeu i will write about what we did in this unit. what is CLI, my challanges and also takeaways. 
-At first CLI stands for a ** command line interface **  and it is a text-based interface where you can input commands that interact with a computer's operating system. The CLI operates with the help of the default shell, which is between the operating system and the user.
+In this _CLI_ writeu i will write about what we did in this unit. what is _CLI_, my challanges and also takeaways. 
+At first _CLI_ stands for a **command line interface**  and it is a text-based interface where you can input commands that interact with a computer's operating system. The CLI operates with the help of the default shell, which is between the operating system and the user.
 
 ### About 
 #### - here is my vocabulary 
@@ -56,6 +56,11 @@ because i wasn´ in the right directory.
 So after i wrote ```cd wd/classwork/cli-music-iumzhanad1760/punk-rock``` it fixed my code to this and everythng began to work. 
 
     ![Screenshot 2024-12-15 2 41 45 PM](https://github.com/user-attachments/assets/6fc0c829-03cd-4e8a-8e0a-e7a9cce6a13a)
+- right code above.
+
+2. My second challenge was that i was confused about ```mv``` i was trying to put ```blink-182.txt``` in the folder ```punk-rock``` but accidentally wrote  ```pank-rock``` and it just remaned my file and i had to remane it back in order to make it right. 
+![Screenshot 2024-12-15 2 23 51 PM](https://github.com/user-attachments/assets/eed10090-2a2b-4615-9d0c-86eec7f68426)
+![Screenshot 2024-12-15 2 25 28 PM](https://github.com/user-attachments/assets/e5022cc4-c904-4b3e-90ef-d7e29ce6c64d)
 
 
 
