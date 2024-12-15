@@ -51,8 +51,9 @@ cd../sunset park
 1. My first challenge was during the music CLI classwork. i was trying to put file  ```blink-182.txt``` in the folder ```punk-rock``` but it didnt work
 because i wasn´ in the right directory.
 
-   ![Screenshot 2024-12-15 2 16 58 PM](https://github.com/user-attachments/assets/ce19e181-6527-4a70-a1d9-3bc5018baeb2)
-   
+
+   ![Screenshot 2024-12-15 2 41 45 PM](https://github.com/user-attachments/assets/8c4fcfc5-2123-4391-9eda-6d7e243e01ec)
+
 So after i wrote ```cd wd/classwork/cli-music-iumzhanad1760/punk-rock``` it fixed my code to this and everythng began to work. 
 
     ![Screenshot 2024-12-15 2 41 45 PM](https://github.com/user-attachments/assets/6fc0c829-03cd-4e8a-8e0a-e7a9cce6a13a)
