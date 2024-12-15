@@ -47,6 +47,10 @@ Cd brooklyn /bay ridge- Goes into grandchild directory called bay ridge via chil
 cd../sunset park
 
 ### Challenges
+1. My first challenge was during the music CLI classwork. i was trying to put file  blink-182.txt in the fonder punk-rock but it didnt work
+   ![Screenshot 2024-12-15 2 16 58 PM](https://github.com/user-attachments/assets/ce19e181-6527-4a70-a1d9-3bc5018baeb2)
+
+   
 
 
   
