@@ -6,7 +6,8 @@
 
 
 ### Context
-
+In this CLI writeu i will write about what we did in this unit. what is CLI, my challanges and also takeaways. 
+At first CLI stands for a ** command line interface **  and it is a text-based interface where you can input commands that interact with a computer's operating system. The CLI operates with the help of the default shell, which is between the operating system and the user.
 
 ### About 
 #### - here is my vocabulary 
@@ -54,7 +55,8 @@ because i wasn´ in the right directory.
    
 So after i wrote ```cd wd/classwork/cli-music-iumzhanad1760/punk-rock``` it fixed my code to this and everythng began to work. 
 
-    ![image](https://github.com/user-attachments/assets/58a1e7bf-d71c-4c75-b633-e53e27e0692c)
+    ![Screenshot 2024-12-15 2 41 45 PM](https://github.com/user-attachments/assets/6fc0c829-03cd-4e8a-8e0a-e7a9cce6a13a)
+
 
 
    
