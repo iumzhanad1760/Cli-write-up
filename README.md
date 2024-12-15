@@ -64,6 +64,10 @@ So after i wrote ```cd wd/classwork/cli-music-iumzhanad1760/punk-rock``` it fixe
 
 i used  ``` mv pank-rock blink-182.txt```   to remane it and ```mv blink-182.txt punk-rock``` to move it to a right folder. 
 
+![Screenshot 2024-12-15 2 58 26 PM](https://github.com/user-attachments/assets/30917f4f-8fc6-448f-880d-c9124bd202e9)
+
+![Screenshot 2024-12-15 2 57 50 PM](https://github.com/user-attachments/assets/cab64197-05e5-40ee-ade0-b867f79fd00e)
+
 
 
    
