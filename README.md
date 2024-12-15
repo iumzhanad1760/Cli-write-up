@@ -57,10 +57,14 @@ because i wasn´ in the right directory.
 So after i wrote ```cd wd/classwork/cli-music-iumzhanad1760/punk-rock``` it fixed my code to this and everythng began to work. 
 
     ![Screenshot 2024-12-15 2 41 45 PM](https://github.com/user-attachments/assets/6fc0c829-03cd-4e8a-8e0a-e7a9cce6a13a)
+
+
+    ![Screenshot 2024-12-15 2 23 51 PM](https://github.com/user-attachments/assets/eed10090-2a2b-4615-9d0c-86eec7f68426)
+    
 - right code above.
 
-2. My second challenge was that i was confused about ```mv``` i was trying to put ```blink-182.txt``` in the folder ```punk-rock``` but accidentally wrote  ```pank-rock``` and it just remaned my file and i had to remane it back in order to make it right. 
-![Screenshot 2024-12-15 2 23 51 PM](https://github.com/user-attachments/assets/eed10090-2a2b-4615-9d0c-86eec7f68426)
+2. My second challenge was that i was confused about ```mv``` i was trying to put ```blink-182.txt``` in the folder ```punk-rock``` but accidentally wrote  ```pank-rock``` and it just remaned my file and i had to remane it back in order to make it right.
+
 ![Screenshot 2024-12-15 2 25 28 PM](https://github.com/user-attachments/assets/e5022cc4-c904-4b3e-90ef-d7e29ce6c64d)
 
 
