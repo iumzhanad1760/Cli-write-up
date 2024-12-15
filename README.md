@@ -52,7 +52,8 @@ cd ../sunset park
 My first challenge was during the music CLI classwork. I was trying to put the file ```blink-182.txt``` in the folder ```punk-rock```, but it didn't work.
 because I wasn't in the right directory.
 
-   ![Screenshot 2024-12-15 2 41 45 PM](https://github.com/user-attachments/assets/8c4fcfc5-2123-4391-9eda-6)
+![Screenshot 2024-12-15 2 41 45 PM](https://github.com/user-attachments/assets/6b4fa794-adb0-48ba-a1b9-6f6d79c3d2b8)
+
 
 So after I wrote ```cd wd/classwork/cli-music-iumzhanad1760/punk-rock```, it fixed my code to this, and everything began to work. 
     
@@ -61,14 +62,15 @@ So after I wrote ```cd wd/classwork/cli-music-iumzhanad1760/punk-rock```, it fix
 
 #### 2.
  My second challenge was that I was confused about ```mv```. I was trying to put ```blink-182.txt``` in the folder ```punk-rock```, but I accidentally wrote ```pank-rock```, and it just renamed my file, and I had to rename it back in order to make it right.
+ 
+![Screenshot 2024-12-15 2 25 28 PM](https://github.com/user-attachments/assets/c34d83e6-57f2-4a6e-8979-b849d51fd529)
 
-![Screenshot 2024-12-15 2 25 28 PM](https://github.com/user-attachments/assets/e5022cc4-c904-4b3e-90ef-d7e)
 
 I used ```mv punk-rock blink-182.txt``` to rename it and ```mv blink-182.txt punk-rock``` to move it to the right folder. 
+![Screenshot 2024-12-15 2 58 26 PM](https://github.com/user-attachments/assets/487e997b-f6a9-43f0-a6ce-415992066d27)
 
-![Screenshot 2024-12-15 2 58 26 PM](https://github.com/user-attachments/assets/30917f4f-8fc6-448f-880d-c912)
+![Screenshot 2024-12-15 2 57 50 PM](https://github.com/user-attachments/assets/fca62356-cfcb-43a6-8b71-d212ee303a1e)
 
-![Screenshot 2024-12-15 2:57:50 PM](https://github.com/user-attachments/assets/cab64197-05e5-40ee-ade0-b867f79)
 
 And this is the right result! 
 
