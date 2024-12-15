@@ -39,9 +39,11 @@
 
 
 
- _examples_
+ ### _examples_
 Cd brooklyn- goes into the child directory called “Brooklyn”
+
 Cd brooklyn /bay ridge- Goes into grandchild directory called bay ridge via child directory- Brooklyn 
+
 cd../sunset park
 
 ### Challenges
