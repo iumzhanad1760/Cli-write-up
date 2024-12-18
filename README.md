@@ -61,12 +61,20 @@ So after I wrote ```cd wd/classwork/cli-music-iumzhanad1760/punk-rock```, it fix
 - right code above.
 
 #### 2.
- My second challenge was that I was confused about ```mv```. I was trying to put ```blink-182.txt``` in the folder ```punk-rock```, but I accidentally wrote ```pank-rock```, and it just renamed my file, and I had to rename it back in order to make it right.
+ My second challenge was that I was confused about ```bash mv ```. I was trying to put ```bash blink-182.txt``` in the folder ```bash punk-rock```, but I accidentally wrote ```pank-rock```, and it just renamed my file, and I had to rename it back in order to make it right.
  
 ![Screenshot 2024-12-15 2 25 28 PM](https://github.com/user-attachments/assets/c34d83e6-57f2-4a6e-8979-b849d51fd529)
 
 
-I used ```mv punk-rock blink-182.txt``` to rename it and ```mv blink-182.txt punk-rock``` to move it to the right folder.
+I used
+```bash 
+mv punk-rock blink-182.txt
+``` 
+to rename it and
+```bash
+mv blink-182.txt punk-rock
+```
+to move it to the right folder.
 
 
 ![Screenshot 2024-12-15 2 58 26 PM](https://github.com/user-attachments/assets/487e997b-f6a9-43f0-a6ce-415992066d27)
